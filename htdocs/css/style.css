@@ -1,0 +1,15 @@
+form {
+	width: 500px;
+}
+
+p {
+	width: 65%;
+	background: #f8f9fa;
+	color: #444;
+}
+
+.ltext {
+	width: 65%;
+	background: #3289c8;
+	color: #fff;
+}
